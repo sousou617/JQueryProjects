@@ -1,12 +1,12 @@
-<<<<<<< HEAD
-/* body {
+
+body {
 	margin: 0;
 	padding: 0;
-} */
+}
 
 h3 {
 	border: 2px solid gray;
-	border-radius: 5%;
+	border-radius: 5px;
 	padding: 5px;
 	z-index: 5;
 	white-space: nowrap;
@@ -38,45 +38,3 @@ h3 {
 	left: 0;
 	right: 0;
 }
-=======
-body {
-	margin: 0;
-	padding: 0;
-}
-
-h3 {
-	border: 2px solid gray;
-	border-radius: 5%;
-	z-index: 5;
-}
-
-.cb-bg1 {
-	background-color: #E2BCFA;
-}
-
-.cb-bg2 {
-	background-color: #aedca7;
-}
-
-.tools {
-
-}
-
-.r-height {
-	height: 100%;
-}	
-
-.row {
-
-}
-
-.col-3 {
-	width: 200%;
-	float: left;
-}
-
-.col-9 {
-	margin-left: 200px;
-
-}
->>>>>>> a8077179725472671bd34644aaf94cae34349f52
