@@ -1,0 +1,39 @@
+/* body {
+	margin: 0;
+	padding: 0;
+} */
+
+h3 {
+	border: 2px solid gray;
+	border-radius: 5%;
+	padding: 5px;
+	z-index: 5;
+	white-space: nowrap;
+}
+
+.cb-bg1 {
+	background-color: #E2BCFA;
+/* 	height: 100%; */
+}
+
+.cb-bg2 {
+	background-color: #aedca7;
+}
+
+
+.r-height {
+	height: 80%;
+}	
+
+
+/* .sw-height-100{
+	height: 80%;
+} */
+
+.cb-fullscreen{
+	position: absolute;
+	bottom: 0;
+	top: 0;
+	left: 0;
+	right: 0;
+}
